@@ -1,0 +1,3 @@
+AnalogRead.c:14:6:AnalogRead	16	static
+AnalogRead.c:26:6:AnalogReadIT	16	static
+AnalogRead.c:40:6:HAL_ADC_ConvCpltCallback	16	static

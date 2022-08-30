@@ -1,0 +1,4 @@
+Usart.c:13:6:Uart_voidTrans	24	static
+Usart.c:17:6:Uart_voidReceive	24	static
+Usart.c:23:6:Uart_voidReceiveIT	24	static
+Usart.c:44:6:HAL_UART_RxCpltCallback	16	static

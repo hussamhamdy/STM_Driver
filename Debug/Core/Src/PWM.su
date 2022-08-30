@@ -1,0 +1,2 @@
+PWM.c:10:6:PWM_voidStart	16	static
+PWM.c:31:6:PWM_voidStop	16	static
